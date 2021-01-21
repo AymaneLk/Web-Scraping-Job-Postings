@@ -3,6 +3,8 @@ The objective of this project was to explore the number of posts in the job mark
 I wrote a python scripts, namely "main.py" and to responsibly scrape the  website "https://www.wuzzuf.net". And i searched about jobs related to Python posts. Used beautifulsoup4 package and lxml package. "main.py" is code in which it gathers informations about the job requirements such as (Job title/ Company name/ Location/ Skills/ Salary/ Post date), and generate a csv file containing these informations.
 
 
+In files you'll find a 'jobs_scrapping.csv' file, containing a preview of the results got from the script.
+
 This project is based on web scraping technologie using python 3.8.0. To work on this project you need to install:
 
 
